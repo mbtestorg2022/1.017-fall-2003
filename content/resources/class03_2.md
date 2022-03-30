@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/36fedba494bac6971caf0cd0f311a4eb_class03_2.pdf
 file_type: application/pdf
+parent_uid: dc1d597b-6acf-4e17-f390-0ffb0e32fdf5
 resourcetype: Document
 title: class03_2.pdf
 uid: 36fedba4-94ba-c697-1caf-0cd0f311a4eb

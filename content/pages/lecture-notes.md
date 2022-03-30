@@ -54,7 +54,7 @@ Descriptive Statistics ([PDF]({{< baseurl >}}/resources/class03_2))
 Probablility ([PDF]({{< baseurl >}}/resources/class03_3))
 {{< tdclose >}}
 {{< tdopen >}}
-virtual.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/lecture-notes/virtual.m))
+virtual.m ({{% resource_link "eaac9ce1-78c3-033f-aefd-299df6bcda17" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +79,7 @@ Combinatorial Methods for Deriving Probabilities ([PDF]({{< baseurl >}}/resource
 {{< tdclose >}}
 {{< tdopen >}}
 combinatorial\_example.pdf ([PDF]({{< baseurl >}}/resources/combinatorial_examples))  
-balls.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/lecture-notes/balls.m))
+balls.m ({{% resource_link "cf9384a7-25f9-3134-f04d-aa03cc7bb812" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +139,7 @@ Risk
 Some Common Probability Distributions ([PDF]({{< baseurl >}}/resources/class03_10))
 {{< tdclose >}}
 {{< tdopen >}}
-cdffit.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/lecture-notes/cdffit.m))
+cdffit.m ({{% resource_link "f8360713-8463-198a-0bea-7bc6566bd6a6" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
