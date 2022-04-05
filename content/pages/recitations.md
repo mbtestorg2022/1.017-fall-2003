@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 0f3a0bce-f465-6e39-a219-ef93d680454f
 ---
@@ -28,7 +31,7 @@ SUPPORTING FILES
 Programming in MATLAB® ([PDF]({{< baseurl >}}/resources/rec03_1))
 {{< tdclose >}}
 {{< tdopen >}}
-climate\_plot.m ({{% resource_link "d7d0c4fc-8b02-775c-1bbf-53558a4f4f14" "M" %}})
+climate\_plot.m ([M]({{< baseurl >}}/resources/climate_plot))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +43,7 @@ climate\_plot.m ({{% resource_link "d7d0c4fc-8b02-775c-1bbf-53558a4f4f14" "M" %}
 MATLAB® Operations ([PDF - 1.7 MB]({{< baseurl >}}/resources/rec03_2))
 {{< tdclose >}}
 {{< tdopen >}}
-oxygen.m ({{% resource_link "2dadb466-5742-71d9-8e21-aa7e0a8c278d" "M" %}})
+oxygen.m ([M]({{< baseurl >}}/resources/oxygen))
 {{< tdclose >}}
 
 {{< trclose >}}

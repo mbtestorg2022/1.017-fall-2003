@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: dc1d597b-6acf-4e17-f390-0ffb0e32fdf5
 ---
@@ -54,7 +57,7 @@ Descriptive Statistics ([PDF]({{< baseurl >}}/resources/class03_2))
 Probablility ([PDF]({{< baseurl >}}/resources/class03_3))
 {{< tdclose >}}
 {{< tdopen >}}
-virtual.m ({{% resource_link "eaac9ce1-78c3-033f-aefd-299df6bcda17" "M" %}})
+virtual.m ([M]({{< baseurl >}}/resources/virtual))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +82,7 @@ Combinatorial Methods for Deriving Probabilities ([PDF]({{< baseurl >}}/resource
 {{< tdclose >}}
 {{< tdopen >}}
 combinatorial\_example.pdf ([PDF]({{< baseurl >}}/resources/combinatorial_examples))  
-balls.m ({{% resource_link "cf9384a7-25f9-3134-f04d-aa03cc7bb812" "M" %}})
+balls.m ([M]({{< baseurl >}}/resources/balls))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +142,7 @@ Risk
 Some Common Probability Distributions ([PDF]({{< baseurl >}}/resources/class03_10))
 {{< tdclose >}}
 {{< tdopen >}}
-cdffit.m ({{% resource_link "f8360713-8463-198a-0bea-7bc6566bd6a6" "M" %}})
+cdffit.m ([M]({{< baseurl >}}/resources/cdffit))
 {{< tdclose >}}
 
 {{< trclose >}}
